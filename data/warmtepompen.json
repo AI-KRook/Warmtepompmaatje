@@ -8,7 +8,7 @@
       "model": "Elga Ace",
       "type": "hybride",
       "voorbeeld_variant": "Elga Ace 4,0 kW (monoblock)",
-      "vermogen_kw": 4.0,
+      "vermogen_kw": 4,
       "scop_toelichting": "hoge COP bij lage aanvoertemperatuur; werkt samen met de cv-ketel",
       "geluid_db": 58,
       "geluid_toelichting": "geluidsvermogen buitenunit volgens label; met stille modus voor de nacht",
@@ -37,9 +37,9 @@
       "aanbiedingen": [
         {
           "winkel": "123Klimaatshop",
-          "prijs_eur": 3299,
+          "prijs_eur": 1600,
           "url": "https://www.123klimaatshop.nl/product/remeha-elga-ace-hybride-warmtepomp-40-kw/",
-          "datum": null
+          "datum": "2026-07-22"
         },
         {
           "winkel": "Technim",
@@ -47,7 +47,8 @@
           "url": "https://www.technim.nl/p/remeha-elga-ace-monoblock-hybride-warmtepomp-4kw/",
           "datum": null
         }
-      ]
+      ],
+      "prijs_datum": "2026-07-22"
     },
     {
       "id": "daikin-altherma-hybrid",
@@ -55,7 +56,7 @@
       "model": "Altherma R Hybrid",
       "type": "hybride",
       "voorbeeld_variant": "Altherma R Hybrid 5 kW",
-      "vermogen_kw": 5.0,
+      "vermogen_kw": 5,
       "scop_toelichting": "sterk in grotere woningen; koppelt met een Daikin-gasketel of bestaande ketel",
       "geluid_db": 59,
       "geluid_toelichting": "geluidsvermogen buitenunit volgens label; stille nachtstand instelbaar",
@@ -84,11 +85,12 @@
       "aanbiedingen": [
         {
           "winkel": "Coen+",
-          "prijs_eur": 3600,
+          "prijs_eur": 3343,
           "url": "https://www.coen-plus.nl/daikin-altherma-hybride-warmtepomp-4kw-monoblock.html",
-          "datum": null
+          "datum": "2026-07-22"
         }
-      ]
+      ],
+      "prijs_datum": "2026-07-22"
     },
     {
       "id": "quatt-hybrid",
@@ -170,7 +172,7 @@
       "model": "aroTHERM plus",
       "type": "all-electric",
       "voorbeeld_variant": "aroTHERM plus 5 kW (monoblock)",
-      "vermogen_kw": 5.0,
+      "vermogen_kw": 5,
       "scop": 4.7,
       "scop_toelichting": "SCOP circa 4,65 tot 4,9 bij 35 °C aanvoer; A+++",
       "geluid_db": 54,
@@ -212,8 +214,8 @@
       "model": "Vitocal 250-A",
       "type": "all-electric",
       "voorbeeld_variant": "Vitocal 250-A 6 kW (monoblock)",
-      "vermogen_kw": 6.0,
-      "scop": 5.0,
+      "vermogen_kw": 6,
+      "scop": 5,
       "scop_toelichting": "SCOP-waarden rond of boven 5,0 bij 35 °C aanvoer; A+++",
       "geluid_db": 54,
       "geluid_toelichting": "stille buitenunit met nachtmodus; geluidsvermogen circa 54 dB(A)",
@@ -260,7 +262,7 @@
       "model": "S2125",
       "type": "all-electric",
       "voorbeeld_variant": "S2125-8 (monoblock) met SVM-binnenunit",
-      "vermogen_kw": 8.0,
+      "vermogen_kw": 8,
       "scop": 4.8,
       "scop_toelichting": "hoog seizoensrendement; A+++",
       "geluid_db": 53,
@@ -302,7 +304,7 @@
       "model": "Ecodan (R290)",
       "type": "all-electric",
       "voorbeeld_variant": "Ecodan 6 kW (monoblock) met hydrobox",
-      "vermogen_kw": 6.0,
+      "vermogen_kw": 6,
       "scop": 4.8,
       "scop_toelichting": "hoog rendement; Ultra Quiet-uitvoeringen beschikbaar",
       "geluid_db": 55,
@@ -336,7 +338,7 @@
       "model": "Altherma 3 R",
       "type": "all-electric",
       "voorbeeld_variant": "Altherma 3 R 6 kW met hydrobox",
-      "vermogen_kw": 6.0,
+      "vermogen_kw": 6,
       "scop": 4.6,
       "scop_toelichting": "bewezen platform, breed leverbaar in vermogens 4 tot 8 kW",
       "geluid_db": 58,
@@ -370,7 +372,7 @@
       "model": "Compress 5800i AW",
       "type": "all-electric",
       "voorbeeld_variant": "Compress 5800i AW 5 kW (monoblock)",
-      "vermogen_kw": 5.0,
+      "vermogen_kw": 5,
       "scop": 4.8,
       "scop_toelichting": "A+++; geldt als een van de stilste warmtepompen van dit moment",
       "geluid_db": 51,
@@ -400,9 +402,9 @@
       "aanbiedingen": [
         {
           "winkel": "Woon op Stroom",
-          "prijs_eur": 3500,
+          "prijs_eur": 5189,
           "url": "https://woonopstroom.nl/products/nefit-bosch-compress-5800i-aw-4-kw-buitenunit",
-          "datum": null
+          "datum": "2026-07-22"
         },
         {
           "winkel": "Woonwijzerwinkel",
@@ -410,7 +412,8 @@
           "url": "https://www.woonwijzerwinkel.nl/product/nefit-bosch-monoblock-compress-5800i-aw/",
           "datum": null
         }
-      ]
+      ],
+      "prijs_datum": "2026-07-22"
     },
     {
       "id": "panasonic-aquarea-l",
@@ -418,7 +421,7 @@
       "model": "Aquarea L-generatie",
       "type": "all-electric",
       "voorbeeld_variant": "Aquarea L 5 kW (monoblock)",
-      "vermogen_kw": 5.0,
+      "vermogen_kw": 5,
       "scop": 4.7,
       "scop_toelichting": "A+++; hoge aanvoertemperatuur voor bestaande bouw",
       "geluid_db": 56,
@@ -452,7 +455,7 @@
       "model": "Therma V (R290)",
       "type": "all-electric",
       "voorbeeld_variant": "Therma V R290 Monobloc 7 kW (1-fase)",
-      "vermogen_kw": 7.0,
+      "vermogen_kw": 7,
       "scop": 4.7,
       "scop_toelichting": "A+++; scherp geprijsd voor de specificaties",
       "geluid_db": 56,
@@ -494,7 +497,7 @@
       "model": "EHS Mono HT Quiet",
       "type": "all-electric",
       "voorbeeld_variant": "EHS Mono HT Quiet 8 kW",
-      "vermogen_kw": 8.0,
+      "vermogen_kw": 8,
       "scop": 4.6,
       "scop_toelichting": "A+++; ontworpen op stille werking (Quiet-modus)",
       "geluid_db": 54,
@@ -542,8 +545,8 @@
       "model": "Blackbird",
       "type": "all-electric",
       "voorbeeld_variant": "Blackbird 5 kW (monoblock)",
-      "vermogen_kw": 5.0,
-      "scop": 5.0,
+      "vermogen_kw": 5,
+      "scop": 5,
       "scop_toelichting": "Nederlandse nieuwkomer met zeer hoog opgegeven rendement",
       "geluid_db": 54,
       "geluid_toelichting": "stil ontwerp met grote, langzaam draaiende ventilator",
