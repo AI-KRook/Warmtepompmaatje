@@ -571,12 +571,6 @@
       },
       "aanbiedingen": [
         {
-          "winkel": "Warmtepompen-webshop",
-          "prijs_eur": 7666,
-          "url": "https://www.warmtepompen-webshop.nl/webshop/lucht-water-warmtepomp/stiebel-eltron",
-          "datum": null
-        },
-        {
           "winkel": "Boilermarkt",
           "prijs_eur": 7950,
           "url": "https://www.boilermarkt.nl/Warmtepomp/Lucht-water-warmtepompen/Stiebel-Eltron-WPL-A-07-HK-230-Premium-lucht-water-warmtepomp-6-87-kW/",
@@ -726,12 +720,6 @@
       },
       "aanbiedingen": [
         {
-          "winkel": "Warmteservice",
-          "prijs_eur": 2900,
-          "url": "https://www.warmteservice.nl/Duurzaam/Warmteterugwinunit/Ventilatie-WTW/Inventum-Ecolution-ventilatiewarmtepomp-voor-tapwater-en-centrale-verwarming-Combi-50/p/85520050",
-          "datum": null
-        },
-        {
           "winkel": "JCB Ventilatie",
           "prijs_eur": 4843,
           "url": "https://www.jcbventilatiestore.nl/products/inventum-ecolution-combi-50-ventilatiewarmtepomp-50-liter",
@@ -776,12 +764,6 @@
           "prijs_eur": 4139,
           "url": "https://aircoshopnl.nl/warmtepomp/tosot-by-gree-versati-iv-10-kw-400v-r32-monoblock-lucht-water-warmtepomp-meldcode-ka22519/",
           "datum": "2026-07-23"
-        },
-        {
-          "winkel": "Solarshop Noord",
-          "prijs_eur": 4399,
-          "url": "https://solarshop-noord.nl/product/tosot-versati-iv-monoblock-warmtepomp-10kw/",
-          "datum": null
         },
         {
           "winkel": "MaxiCool",
